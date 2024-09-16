@@ -1,0 +1,17 @@
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/bin/Debug/net8.0/Console Weather App
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/bin/Debug/net8.0/Console Weather App.deps.json
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/bin/Debug/net8.0/Console Weather App.runtimeconfig.json
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/bin/Debug/net8.0/Console Weather App.dll
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/bin/Debug/net8.0/Console Weather App.pdb
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/obj/Debug/net8.0/Console Weather App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/obj/Debug/net8.0/Console Weather App.AssemblyInfoInputs.cache
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/obj/Debug/net8.0/Console Weather App.AssemblyInfo.cs
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/obj/Debug/net8.0/Console Weather App.csproj.CoreCompileInputs.cache
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/obj/Debug/net8.0/Console Weather App.dll
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/obj/Debug/net8.0/refint/Console Weather App.dll
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/obj/Debug/net8.0/Console Weather App.pdb
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/obj/Debug/net8.0/Console Weather App.genruntimeconfig.cache
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/obj/Debug/net8.0/ref/Console Weather App.dll
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/obj/Debug/net8.0/Console Weather App.csproj.AssemblyReference.cache
+/Users/paytonhall/RiderProjects/Console Weather App/Console Weather App/obj/Debug/net8.0/Console .EC832E4E.Up2Date
